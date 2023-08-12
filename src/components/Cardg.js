@@ -9,7 +9,7 @@ const Cardg = () => {
         <div className='mb-4 relative'>
             <Image 
             alt='Jhay cortez'
-            src="https://i.discogs.com/CIDt_Lb2lyVpP_iueh2ak4ysFneE3Ja70tgEaWYjbrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI0/MjMzLTE2MDM4MzA1/NjctMzI2Ni5qcGVn.jpeg" 
+            src="https://upload.wikimedia.org/wikipedia/en/b/b9/Jhay_Cortez_-_Famouz.png" 
             width={200} height={250} className='rounded shadow-2xl mx-auto'/>
             <button className='p-3 text-2xl bg-spotify-green rounded-full text-spotify-gray absolute 
             right-4 bottom-4 opacity-0 group-hover:opacity-100 transition-all duration-300 translate-y-2 group-hover:translate-y-0 ease-out'>
