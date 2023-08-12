@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import Cardd from './cardd';
+import Cardd from './Cardd';
 import Carde from './Carde';
 import Cardf from './Cardf';
 import Cardg from './Cardg';
