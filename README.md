@@ -1,4 +1,4 @@
-# NETFLIX PROYECT
+# SPOTIFY
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
@@ -45,4 +45,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<a href="https://netlix-clone-maximo.netlify.app/"><img src="PRESENTATION1.png"></a>
+<a href="https://spotify-proyect.netlify.app/"><img src="PRESENTATION1.png"></a>
